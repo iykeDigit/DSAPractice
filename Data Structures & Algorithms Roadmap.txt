@@ -1,0 +1,81 @@
+Data Structures & Algorithms Roadmap with YouTube Resources 🙌
+
+1 Introduction to DSA : 
+Start with understanding the basics of data structures.
+
+https://lnkd.in/d-8_5_fE
+
+2 Arrays and Strings:
+Learn about array manipulation, searching, sorting, and string manipulation techniques.
+
+https://lnkd.in/dyjmA5cq
+
+3 Linked Lists:
+Understand singly linked lists, doubly linked lists, and circular linked lists. Learn about insertion, deletion, and traversal operations.
+
+https://lnkd.in/dZJXhktY
+
+4 Stacks and Queues:
+Explore the concepts of stacks and queues, along with their applications in solving real-world problems.
+
+https://lnkd.in/d4sK58TK
+
+5 Hashing:
+Learn about hash functions, hash tables, and collision resolution techniques.
+
+https://lnkd.in/dkQRvJ-D
+
+6 Trees:
+Study binary trees, binary search trees, AVL trees, and basic tree traversal algorithms like inorder, preorder, and postorder.
+
+https://lnkd.in/d9pr5Wgy
+
+7 Graphs:
+Understand graph representations, traversal algorithms (DFS, BFS), and basic graph algorithms (Dijkstra's, Kruskal's).
+
+https://lnkd.in/dpkGNJxg
+
+8 Sorting Algorithms:
+Familiarize yourself with various sorting algorithms like bubble sort, insertion sort, merge sort, and quicksort.
+
+https://lnkd.in/dVmjcNJp
+
+9 Searching Algorithms:
+Learn about linear search, binary search, and other searching techniques.
+
+https://lnkd.in/d4rzxnE3
+
+10 Dynamic Programming:
+Explore dynamic programming concepts and techniques for solving optimization problems.
+
+https://lnkd.in/dwHeF4DE
+
+11 Recursion:
+Understand recursion, recursive algorithms, and their applications.
+
+https://lnkd.in/dmXRnGry
+
+12 Divide and Conquer:
+Learn about the divide and conquer paradigm and its applications in solving problems.
+
+https://lnkd.in/dfnnSuKi
+
+13 Greedy Algorithms:
+Study greedy algorithms and their application in solving optimization problems.
+
+https://lnkd.in/d2sDG2H5
+
+14 Backtracking:
+Explore backtracking techniques to solve problems like the N-Queens problem and the subset sum problem.
+
+https://lnkd.in/dEGMtB92
+
+15 Advanced Data Structures:
+Learn about advanced data structures like heaps, tries, and segment trees.
+
+https://lnkd.in/d8N4s6Qt
+
+16 Algorithm Analysis:
+Understand how to analyze the time and space complexity of algorithms.
+
+https://lnkd.in/dxqNMZ7Y
